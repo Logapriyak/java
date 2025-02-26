@@ -1,0 +1,28 @@
+How Java Code Executes
+1.Creating the Program – Written in a text editor or IDE and saved with a .java extension.
+2.Compiling the Program – The javac compiler converts source code into platform-independent bytecode (.class file).
+3.Running the Program – The JVM executes the bytecode by translating it into machine-specific code.
+
+Key Features of Java:
+1.Platform Independent – Java bytecode runs on any OS via the JVM.
+2.Object-Oriented – Uses concepts like abstraction, encapsulation, inheritance, and polymorphism.
+3.Simple – Easy syntax, no pointers, and avoids multiple inheritances.
+4.Robust – Strong memory management, garbage collection, and exception handling.
+5.Secure – No pointers, prevents buffer overflow, and runs in a secure environment.
+6.Multithreading – Enables concurrent execution for better performance.
+7.Portable – WORA (Write Once, Run Anywhere) due to platform-independent bytecode.
+8.High Performance – Uses JIT(Just In Time) compiler for efficient execution.
+
+Advantages of Java
+1.Runs on any device with a JVM (Write Once, Run Anywhere).
+2.Supports encapsulation, inheritance, and polymorphism.
+3.Features like automatic memory management and type checking enhance security.
+4.A vast developer community provides strong support and resources.
+5.Used in web apps, e-commerce, and database systems.
+
+Disadvantages of Java
+1.Performance – Slower than languages like C++ due to JVM overhead.
+2.Memory Management – Automatic memory management can increase memory usage and affect performance.
+
+
+
